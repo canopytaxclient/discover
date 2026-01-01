@@ -1,34 +1,22 @@
-How to Access Your Discover Card Account
-========================================
+Discover Card Login Guide
+=========================
 
-Manage Your Card Online Securely and Easily
+Securely Access Your Account Online
 
 .. raw:: html
 
-    <!-- Banner Section with Image and Button -->
-    <div style="position:relative; text-align:center; color:white; margin-bottom:30px;">
-        <img src="https://www.discover.com/content/dam/discover/homepage/discover-card-banner.jpg" alt="Discover Card Banner" style="width:100%; max-height:400px; object-fit:cover; border-radius:8px;">
-        <a href="https://www.discovercard.com" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); background-color:#ff9900; color:#ffffff; padding:16px 32px; font-size:18px; font-weight:bold; text-decoration:none; border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
+    <!-- Banner with Image and Button -->
+    <div style="position:relative; text-align:center; margin-bottom:40px;">
+        <img src="_static/discover-banner.jpg" alt="Discover Card Banner" style="width:100%; max-height:400px; object-fit:cover; border-radius:8px;">
+        <a href="https://www.discovercard.com" style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); 
+            background-color:#ff9900; color:#fff; padding:16px 32px; font-size:18px; font-weight:bold; text-decoration:none; 
+            border-radius:8px; box-shadow:0 4px 6px rgba(0,0,0,0.2);">
             Log In to Discover Card
         </a>
     </div>
 
 Accessing your Discover Card account online is fast, secure, and gives you full control of your finances. By logging in at 
-`www.discovercard.com <https://www.discovercard.com>`_, you can check your balance, pay bills, monitor rewards, and manage your card anytime.
-
----
-
-Why Use Online Login?
---------------------
-
-The official login page allows you to:
-
-- View your current balance and available credit instantly.
-- Make payments quickly without visiting a branch.
-- Track rewards and cashback points in real-time.
-- Review recent transactions and account activity.
-- Update personal and security settings.
-- Receive alerts and notifications directly.
+`www.discovercard.com <https://www.discovercard.com>`_, you can check your balance, pay bills, track rewards, and manage your card anytime.
 
 ---
 
@@ -69,25 +57,6 @@ Mobile Login Tips
 - Download the **Discover Mobile App** for alerts and easy access.
 - Log out after using public/shared devices.
 - Use biometric login if supported for added convenience.
-
----
-
-Benefits of Logging In Online
------------------------------
-
-- **Check Balances** – Know your available credit anytime.  
-- **Make Payments** – Pay bills instantly online.  
-- **Track Rewards** – Monitor cashback and reward points.  
-- **View Transactions** – Keep track of spending.  
-- **Secure Access** – All sessions are encrypted.  
-- **24/7 Account Management** – Manage your card anytime.
-
----
-
-My Experience
--------------
-
-Logging in via `www.discovercard.com <https://www.discovercard.com>`_ is simple and reliable. The dashboard is user-friendly, allowing me to check balances, make payments, and view rewards quickly. The mobile app makes managing my account on-the-go effortless.
 
 ---
 
